@@ -1,0 +1,5 @@
+exp/
+data/
+tensorboard/
+nohup.out
+align_conformer.py
